@@ -1,9 +1,7 @@
-# Hello!
-- 👋 Hi, I’m @snairkicks
-- 👀 I’m interested in Music, Coding, and Art/Design.
-- 🌱 I’m currently learning Solidity, block-chain programming for ETH.
-- 💞️ I’m looking to collaborate on anything especially if it relates to music technologies and solutions.
-- 📫 How to reach me hey@snairkicks.com
+# Hello, I'm Snairkicks!
+- I'm a music producer and techie. I'm diving in to learning the technology of blockchain/web3 and how to use it to cultivate the space for musicians and artist as well as their fans. I'm currently learning several languages from solidity, python, javascript, and more. Plenty of Ideas, always willing to learn and down to collab with others who are interested. 
+- 
+- Join the discord! https://discord.gg/u4mguHbECg
 
 <!---
 snairkicks/snairkicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
