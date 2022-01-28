@@ -1,4 +1,4 @@
-#Hello!
+# Hello!
 - 👋 Hi, I’m @snairkicks
 - 👀 I’m interested in Music, Coding, and Art/Design.
 - 🌱 I’m currently learning Solidity, block-chain programming for ETH.
