@@ -1,5 +1,5 @@
 # Hello, I'm Snairkicks!
-  I'm a music producer and techie. I'm diving in to learning the technology of blockchain/web3 and how to use it to cultivate the space for musicians and artist as well as their fans. I'm currently learning several languages from solidity, python, javascript, and more. Plenty of Ideas, always willing to learn and down to collab with others who are interested. 
+I'm a music producer and techie. I'm diving in to learning the technology of blockchain/web3 and how to use it to cultivate the space for musicians and artist as well as their fans. I'm currently learning several languages from solidity, python, javascript, and more. Plenty of Ideas, always willing to learn and down to collab with others who are interested. 
 
 ## Join the discord! https://discord.gg/u4mguHbECg
 
